@@ -1,5 +1,5 @@
 
-# ¡Hola! Soy af11090 👋
+# ¡Hi! Soy Antony 👋
 
 ¡Bienvenido/a a mi perfil de GitHub! Aquí te cuento un poco sobre mí:
 
@@ -10,7 +10,7 @@
 - 👯 Busco colaborar en **proyectos open source relacionados con inteligencia artificial, salud digital o sostenibilidad tecnológica**.
 - 🤔 Estoy buscando ayuda para **mejorar la seguridad en aplicaciones web y optimizar rendimiento en backend**.
 - 💬 Pregúntame sobre **Python, PHP, R, Java, APIs REST, bases de datos, y visualización de datos con Power BI o Tableau**.
-- 📫 Cómo contactarme: [af11090@gmail.com](mailto:af11090@gmail.com) o mediante mis redes al final del perfil.
+- 📫 Cómo contactarme: [af11090@gmail.com](mailto:antony11090@gmail.com) o mediante mis redes al final del perfil.
 - 😄 Pronombres: él / he / him
 - ⚡ Dato curioso: **Me encanta automatizar tareas cotidianas, ver futbol en mis tiempos libres y explorar nuevas tecnologías para resolver problemas reales.**
 
