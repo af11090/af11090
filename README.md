@@ -6,20 +6,20 @@
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente estoy trabajando en **proyectos personales de desarrollo web y análisis de datos**, especialmente enfocados en soluciones automatizadas y eficientes.
-- 🌱 Actualmente estoy aprendiendo **Machine Learning, desarrollo móvil con Flutter y buenas prácticas de DevOps**.
+- 🌱 Actualmente estoy aprendiendo **Machine Learning, desarrollo móvil con React Native y buenas prácticas de DevOps**.
 - 👯 Busco colaborar en **proyectos open source relacionados con inteligencia artificial, salud digital o sostenibilidad tecnológica**.
 - 🤔 Estoy buscando ayuda para **mejorar la seguridad en aplicaciones web y optimizar rendimiento en backend**.
-- 💬 Pregúntame sobre **Python, R, Java, APIs REST, bases de datos, y visualización de datos con Power BI o Tableau**.
+- 💬 Pregúntame sobre **Python, PHP, R, Java, APIs REST, bases de datos, y visualización de datos con Power BI o Tableau**.
 - 📫 Cómo contactarme: [af11090@gmail.com](mailto:af11090@gmail.com) o mediante mis redes al final del perfil.
 - 😄 Pronombres: él / he / him
-- ⚡ Dato curioso: **Me encanta automatizar tareas cotidianas, ver anime en mis tiempos libres y explorar nuevas tecnologías para resolver problemas reales.**
+- ⚡ Dato curioso: **Me encanta automatizar tareas cotidianas, ver futbol en mis tiempos libres y explorar nuevas tecnologías para resolver problemas reales.**
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes de programación:** Python, Java, JavaScript, R, SQL
+- **Lenguajes de programación:** Python, Java, JavaScript, R, SQL, PHP
 - **Frameworks:** Spring Boot, Flask, React, Node.js
 - **Herramientas y tecnologías:** Git, GitHub, Docker, Postman, MySQL, MongoDB, Firebase, Power BI
-- **Otros:** Figma, VS Code, Linux, APIs REST, Google Cloud Platform
+- **Otros:** Figma, VS Code, Linux, APIs REST, Google Cloud Platform 
 
 ## 📊 Estadísticas de GitHub
 
@@ -27,7 +27,6 @@
 
 ## 🔗 Conecta conmigo
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/af11090/)
-- [🐦 Twitter](https://twitter.com/af11090)
+- [🔗 LinkedIn](www.linkedin.com/in/ing-antony-fernando)
 - [🌐 Sitio web personal](https://af11090.github.io)
 - [📂 Portafolio en línea](https://af11090.github.io/portfolio) *(si tienes uno, o puedes crearlo fácilmente en GitHub Pages)*
